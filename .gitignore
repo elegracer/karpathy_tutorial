@@ -175,6 +175,8 @@ cython_debug/
 
 .python-version
 
+log/
 logs/
 test.py
 building_gpt2/edu_fineweb10B/
+building_gpt2/hellaswag/
